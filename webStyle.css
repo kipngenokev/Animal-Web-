@@ -1,0 +1,43 @@
+.header {
+  font-size: 20px;
+  font-family: "Times New Roman";
+}
+
+.lionImage {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+  border-radius: 50%;
+}
+
+.TigerImage {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+  border-radius: 50%;
+}
+
+.rhinoImage {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+  border-radius: 50%;
+}
+
+.antelopeImage {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+  border-radius: 50%;
+}
+
+nav a {
+  color: green;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+.image-description {
+  line-height: 1.6;
+  color: #333;
+}
